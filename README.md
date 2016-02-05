@@ -9,3 +9,7 @@ In order to run the program, you must type in your terminal
 I've included an XML file with the Old English poem "The Wanderer" as a sample text. It will print out the reoccuring words and the line numbers that they appear on. If the same words are repeated on the same line, it will only print the line once.
 
 I intend to expand this script into an app, but for the time being, it just works.
+
+##Gems
+
+You must have the ```nokogiri``` gem installed.
