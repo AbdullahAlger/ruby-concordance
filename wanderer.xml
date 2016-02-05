@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Wanderer</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div n="Wanderer" subtype="edition_text" type="verse" xml:id="Wanderer">
+            <pb n="71v" xml:id="EB_fol_90v"/>
+              <l n="1"> Oft him anhaga   are gebideð,  </l>
+              <l n="2"> metudes miltse,   þeah þe he modcearig  </l>
+              <l n="3"> geond lagulade   longe sceolde  </l>
+              <l n="4"> hreran mid hondum   hrimcealde sæ,  </l>
+              <l n="5"> wadan wræclastas --   wyrd bið ful ared.   </l>
+              <l n="6"> Swa cwæð eardstapa,   earfeþa gemyndig, </l>
+              <l n="7"> wraþra wælsleahta,   winemæga hryre:  </l>
+              <l n="8"> "Oft ic sceolde ana   uhtna gehwylce  </l>
+              <l n="9"> mine ceare cwiþan.   Nis nu cwicra nan   </l>
+              <l n="10"> þe ic him modsefan   minne durre  </l>
+              <l n="11"> sweotule asecgan.   Ic to soþe wat  </l>
+              <l n="12"> þæt biþ in eorle   indryhten þeaw </l>
+              <l n="13"> þæt he his ferðlocan   fæste binde, </l>
+              <l n="14"> healde his hordcofan,   hycge swa he wille.  </l>
+              <l n="15"> Ne mæg werig mod   wyrde wiðstondan,  </l>
+              <l n="16"> ne se hreo hyge   helpe gefremman.  </l>
+              <l n="17"> Forðon domgeorne   dreorigne oft  </l>
+              <l n="18"> in hyra breostcofan   bindað fæste. </l>
+              <l n="19"> Swa ic modsefan   minne sceolde </l>
+              <l n="20"> oft earmcearig,   eðle bidæled, </l>
+              <l n="21"> freomægum feor   feterum sælan, </l>
+              <l n="22"> siþþan geara iu   goldwine minne   </l>
+              <l n="23"> hruse heolstre biwrah,   ond ic hean þonan   </l>
+              <l n="24"> wod wintercearig   ofer waþema gebind,   </l>
+              <l n="25"> sohte seledreorig   sinces bryttan, </l>
+              <l n="26"> hwær ic feor oþþe neah   findan meahte  </l>
+              <l n="27"> þone þe in meoduhealle   [minne] myne wisse,   </l>
+              <l n="28"> oþþe mec freondleasne   frefran wolde,   </l>
+              <l n="29"> wenian mid wynnum.   Wat se þe cunnað  </l>
+              <l n="30"> hu sliþen bið   sorg to geferan,  </l>
+              <l n="31"> þam þe him lyt hafað   leofra geholena. </l>
+              <l n="32"> Warað hine wræclast,   nales wunden gold, </l>
+              <l n="33"> ferðloca freorig,   nalæs foldan blæd.   </l>
+              <l n="34"> Gemon he selesecgas   ond sincþege, </l>
+              <l n="35"> hu hine on geoguðe   his goldwine </l>
+              <l n="36"> wenede to wiste --   wyn eal gedreas. </l>
+              <l n="37"> Forþon wat se þe sceal   his winedryhtnes </l>
+              <l n="38"> leofes larcwidum   longe forþolian -- </l>
+              <l n="39"> ðonne sorg ond slæp   somod ætgædre </l>
+              <l n="40"> earmne anhogan   oft gebindað,  </l>
+              <l n="41"> þinceð him on mode   þæt he his mondryhten  </l>
+              <l n="42"> clyppe ond cysse,   ond on cneo lecge </l>
+              <l n="43"> honda ond heafod,   swa he hwilum ær  </l>
+              <l n="44"> in geardagum   giefstolas breac.   </l>
+              <l n="45"> Ðonne onwæcneð eft   wineleas guma -- </l>
+              <l n="46"> gesihð him biforan   fealwe wegas,  </l>
+              <l n="47"> baþian brimfuglas,   brædan feþra,  </l>
+              <l n="48"> hreosan hrim ond snaw   hagle gemenged. </l>
+              <l n="49"> Þonne beoð þy hefigran   heortan benne, </l>
+              <l n="50"> sare æfter swæsne.   Sorg bið geniwad </l>
+              <l n="51"> þonne maga gemynd   mod geondhweorfeð;  </l>
+              <l n="52"> greteð gliwstafum,   georne geondsceawað  </l>
+              <l n="53"> secga geseldan;   swimmað oft on weg -- </l>
+              <l n="54"> fleotendra ferð   no þær fela bringeð </l>
+              <l n="55"> cuðra cwidegiedda.   Cearo bið geniwad  </l>
+              <l n="56"> þam þe sendan sceal   swiþe geneahhe  </l>
+              <l n="57"> ofer waþema gebind   werigne sefan. </l>
+              <l n="58"> Forþon ic geþencan ne mæg   geond þas woruld  </l>
+              <l n="59"> for hwan modsefa   min ne gesweorce  </l>
+              <l n="60"> þonne ic eorla lif   eal geondþence,  </l>
+              <l n="61"> hu hi færlice   flet ofgeafon,  </l>
+              <l n="62"> modge maguþegnas.   Swa þes middangeard </l>
+              <l n="63"> ealra dogra gehwam   dreoseð ond fealleþ. </l>
+              <l n="64"> Forþon ne mæg wearþan wis   wer, ær he age   </l>
+              <l n="65"> wintra dæl in woruldrice. Wita sceal geþyldig --   </l>
+              <l n="66"> ne sceal no to hatheort   ne to hrædwyrde,  </l>
+              <l n="67"> ne to wac wiga   ne to wanhydig,  </l>
+              <l n="68"> ne to forht ne to fægen,   ne to feohgifre  </l>
+              <l n="69"> ne næfre gielpes to georn   ær he geare cunne.  </l>
+              <l n="70"> Beorn sceal gebidan,   þonne he beot spriceð, </l>
+              <l n="71"> oþþæt collenferð   cunne gearwe </l>
+              <l n="72"> hwider hweþra gehygd   hweorfan wille.  </l>
+              <l n="73"> Ongietan sceal gleaw hæle   hu gæstlic bið  </l>
+              <l n="74"> þonne ealre þisse worulde wela   weste stondeð,  </l>
+              <l n="75"> swa nu missenlice   geond þisne middangeard </l>
+              <l n="76"> winde biwaune   weallas stondaþ,  </l>
+              <l n="77"> hrime bihrorene,   hryðge þa ederas.  </l>
+              <l n="78"> Woniað þa winsalo;   waldend licgað  </l>
+              <l n="79"> dreame bidrorene,   duguþ eal gecrong </l>
+              <l n="80"> wlonc bi wealle.   Sume wig fornom, </l>
+              <l n="81"> ferede in forðwege:   sumne fugel oþbær </l>
+              <l n="82"> ofer heanne holm;   sumne se hara wulf  </l>
+              <l n="83"> deaðe gedælde;   sumne dreorighleor </l>
+              <l n="84"> in eorðscræfe   eorl gehydde. </l>
+              <l n="85"> Yþde swa þisne eardgeard   ælda scyppend  </l>
+              <l n="86"> oþþæt burgwara   breahtma lease </l>
+              <l n="87"> eald enta geweorc   idlu stodon.  </l>
+              <l n="88"> Se þonne þisne wealsteal   wise geþohte </l>
+              <l n="89"> ond þis deorce lif   deope geondþenceð,  </l>
+              <l n="90"> frod in ferðe,   feor oft gemon  </l>
+              <l n="91"> wælsleahta worn,   ond þas word acwið:  </l>
+              <l n="92"> 'Hwær cwom mearg?   Hwær cwom mago? Hwær cwom maþþumgyfa? </l>
+              <l n="93"> Hwær cwom symbla gesetu?   Hwær sindon seledreamas? </l>
+              <l n="94"> Eala beorht bune.   Eala byrnwiga.  </l>
+              <l n="95"> Eala þeodnes þrym.   Hu seo þrag gewat, </l>
+              <l n="96"> genap under nihthelm,   swa heo no wære.  </l>
+              <l n="97"> Stondeð nu on laste   leofre duguþe </l>
+              <l n="98"> weal wundrum heah,   wyrmlicum fah.  </l>
+              <l n="99"> Eorlas fornoman   asca þryþe, </l>
+              <l n="100"> wæpen wælgifru,   wyrd seo mære,   </l>
+              <l n="101"> ond þas stanhleoþu   stormas cnyssað, </l>
+              <l n="102"> hrið hreosende   hrusan bindeð,  </l>
+              <l n="103"> wintres woma,   þonne won cymeð,  </l>
+              <l n="104"> nipeð nihtscua,   norþan onsendeð </l>
+              <l n="105"> hreo hæglfare   hæleþum on andan. </l>
+              <l n="106"> Eall is earfoðlic   eorþan rice,  </l>
+              <l n="107"> onwendeð wyrda gesceaft   weoruld under heofonum. </l>
+              <l n="108"> Her bið feoh læne;   her bið freond læne; </l>
+              <l n="109"> her bið mon læne;   her bið mæg læne -- </l>
+              <l n="110"> eal þis eorþan gesteal   idel weorþeð.'"  </l>
+              <l n="111"> Swa cwæð snottor on mode --   gesæt him sundor æt rune. </l>
+              <l n="112"> Til biþ se þe his treowe gehealdeþ,   ne sceal næfre his torn to rycene  </l>
+              <l n="113"> beorn of his breostum acyþan,   nemþe he ær þa bote cunne,  </l>
+              <l n="114"> eorl mid elne gefremman.   Wel bið þam þe him are seceð,  </l>
+              <l n="115"> frofre to fæder on heofonum,   þær us eal seo fæstnung stondeð.  </l>
+         </div>
+      </body>
+  </text>
+</TEI>
